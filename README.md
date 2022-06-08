@@ -3,5 +3,5 @@
 ## Задача :
 
 - [TASK](./Task.md) - Текст задачи
-- [CHART](./Chart.drawio) - Блок-схема
+- [CHART](./Chart.png) - Блок-схема
 - [CODE](./Program.cs) - Код
