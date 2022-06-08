@@ -4,4 +4,4 @@
 
 - [TASK](./Task.md) - Текст задачи
 - [CHART](./Task.md) - Блок-схема
-- [CODE](./Task.md) - Блок-схема
+- [CODE](./Task.md) - Код
